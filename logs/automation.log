@@ -650,3 +650,7 @@
 2026-11-21 18:45:01 INFO  - Application URL is: SauceDemo
 2026-11-21 18:45:01 INFO  - successfully enter user name and pwd
 2026-11-21 18:45:01 INFO  - 🔄 Closing browser
+2026-11-21 22:09:06 INFO  - Browser selected: EDGE
+2026-11-21 22:09:24 INFO  - Application URL is: SauceDemo
+2026-11-21 22:09:25 INFO  - successfully enter user name and pwd
+2026-11-21 22:09:25 INFO  - 🔄 Closing browser
