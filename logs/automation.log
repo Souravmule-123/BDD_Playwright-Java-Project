@@ -1,0 +1,652 @@
+2026-04-25 16:20:03 INFO  - Browser selected from config: EDGE
+2026-04-25 16:20:03 INFO  - Browser selected: EDGE
+2026-04-25 16:20:14 INFO  - Application URL is: SauceDemo
+2026-04-25 16:20:45 INFO  - ❌ FAILED → browser will stay open for debugging
+2026-04-25 16:21:35 INFO  - [TestNG] Running:
+  C:\Users\DELL\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-04-25 16:21:36 INFO  - Browser selected from config: EDGE
+2026-04-25 16:21:36 INFO  - Browser selected: EDGE
+2026-04-25 16:21:47 INFO  - Application URL is: SauceDemo
+2026-04-25 16:22:17 INFO  - ❌ FAILED → browser will stay open for debugging
+2026-04-25 16:35:01 INFO  - Browser selected from config: EDGE
+2026-04-25 16:35:01 INFO  - Browser selected: EDGE
+2026-04-25 16:35:12 INFO  - Application URL is: SauceDemo
+2026-04-25 16:35:44 INFO  - ❌ FAILED → browser will stay open for debugging
+2026-04-25 16:41:57 INFO  - Browser selected from config: EDGE
+2026-04-25 16:41:57 INFO  - Browser selected: EDGE
+2026-04-25 16:42:10 INFO  - Application URL is: SauceDemo
+2026-04-25 16:42:41 INFO  - ❌ FAILED → browser will stay open for debugging
+2026-04-25 16:56:19 INFO  - Browser selected from config: EDGE
+2026-04-25 16:56:19 INFO  - Browser selected: EDGE
+2026-04-25 16:56:30 INFO  - Application URL is: SauceDemo
+2026-04-25 16:57:01 INFO  - ❌ FAILED → browser will stay open for debugging
+2026-04-25 16:58:35 INFO  - Browser selected from config: EDGE
+2026-04-25 16:58:35 INFO  - Browser selected: EDGE
+2026-04-25 16:58:46 INFO  - Application URL is: SauceDemo
+2026-04-25 16:58:48 INFO  - successfully enter user name and pwd
+2026-04-25 16:58:48 INFO  - ✅ PASSED → closing browser
+2026-04-25 16:58:48 INFO  - Closing browser session
+2026-04-25 16:58:48 INFO  - Browser closed successfully
+2026-04-25 16:59:33 INFO  - Browser selected from config: EDGE
+2026-04-25 16:59:33 INFO  - Browser selected: EDGE
+2026-04-25 16:59:44 INFO  - Application URL is: SauceDemo
+2026-04-25 16:59:45 INFO  - successfully enter user name and pwd
+2026-04-25 16:59:45 INFO  - ✅ PASSED → closing browser
+2026-04-25 16:59:45 INFO  - Closing browser session
+2026-04-25 16:59:45 INFO  - Browser closed successfully
+2026-04-25 17:01:13 INFO  - [TestNG] Running:
+  C:\Users\DELL\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-04-25 17:01:14 INFO  - Browser selected from config: EDGE
+2026-04-25 17:01:14 INFO  - Browser selected: EDGE
+2026-04-25 17:01:25 INFO  - Application URL is: SauceDemo
+2026-04-25 17:01:25 INFO  - successfully enter user name and pwd
+2026-04-25 17:01:25 INFO  - ✅ PASSED → closing browser
+2026-04-25 17:01:25 INFO  - Closing browser session
+2026-04-25 17:01:32 INFO  - Browser closed successfully
+2026-04-25 17:03:31 INFO  - [TestNG] Running:
+  C:\Users\DELL\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-04-25 17:03:32 INFO  - Browser selected from config: EDGE
+2026-04-25 17:03:32 INFO  - Browser selected: EDGE
+2026-04-25 17:03:42 INFO  - Application URL is: SauceDemo
+2026-04-25 17:03:44 INFO  - successfully enter user name and pwd
+2026-04-25 17:03:44 INFO  - ✅ PASSED → closing browser
+2026-04-25 17:03:44 INFO  - Closing browser session
+2026-04-25 17:03:44 INFO  - Browser closed successfully
+2026-04-25 17:04:21 INFO  - Browser selected from config: EDGE
+2026-04-25 17:04:21 INFO  - Browser selected: EDGE
+2026-04-25 17:04:31 INFO  - Application URL is: SauceDemo
+2026-04-25 17:04:32 INFO  - successfully enter user name and pwd
+2026-04-25 17:04:32 INFO  - ✅ PASSED → closing browser
+2026-04-25 17:04:32 INFO  - Closing browser session
+2026-04-25 17:04:39 INFO  - Browser closed successfully
+2026-04-25 17:05:00 INFO  - [TestNG] Running:
+  C:\Users\DELL\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-04-25 17:05:01 INFO  - Browser selected from config: EDGE
+2026-04-25 17:05:01 INFO  - Browser selected: EDGE
+2026-04-25 17:05:12 INFO  - Application URL is: SauceDemo
+2026-04-25 17:05:12 INFO  - successfully enter user name and pwd
+2026-04-25 17:05:12 INFO  - ✅ PASSED → closing browser
+2026-04-25 17:05:12 INFO  - Closing browser session
+2026-04-25 17:05:19 INFO  - Browser closed successfully
+2026-04-25 17:10:03 INFO  - [TestNG] Running:
+  C:\Users\DELL\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-04-25 17:10:04 INFO  - Browser selected from config: EDGE
+2026-04-25 17:10:04 INFO  - Browser selected: EDGE
+2026-04-25 17:10:15 INFO  - Application URL is: SauceDemo
+2026-04-25 17:10:16 INFO  - successfully enter user name and pwd
+2026-04-25 17:10:16 INFO  - ✅ PASSED → closing browser
+2026-04-25 17:10:16 INFO  - Closing browser session
+2026-04-25 17:10:22 INFO  - Browser closed successfully
+2026-04-25 17:12:36 INFO  - [TestNG] Running:
+  C:\Users\DELL\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-04-25 17:12:37 INFO  - Browser selected from config: EDGE
+2026-04-25 17:12:37 INFO  - Browser selected: EDGE
+2026-04-25 17:12:48 INFO  - Application URL is: SauceDemo
+2026-04-25 17:12:49 INFO  - successfully enter user name and pwd
+2026-04-25 17:12:49 INFO  - ✅ PASSED → closing browser
+2026-04-25 17:12:49 INFO  - Closing browser session
+2026-04-25 17:12:56 INFO  - Browser closed successfully
+2026-04-25 17:13:45 INFO  - [TestNG] Running:
+  C:\Users\DELL\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-04-25 17:13:46 INFO  - Browser selected from config: EDGE
+2026-04-25 17:13:46 INFO  - Browser selected: EDGE
+2026-04-25 17:14:06 INFO  - Application URL is: SauceDemo
+2026-04-25 17:14:37 INFO  - ❌ FAILED → browser will stay open for debugging
+2026-04-29 19:12:26 INFO  - Browser selected from config: EDGE
+2026-04-29 19:12:26 INFO  - Browser selected: EDGE
+2026-04-29 19:12:45 INFO  - Application URL is: SauceDemo
+2026-04-29 19:12:48 INFO  - successfully enter user name and pwd
+2026-04-29 19:12:48 INFO  - ✅ PASSED → closing browser
+2026-04-29 19:12:48 INFO  - Closing browser session
+2026-04-29 19:12:49 INFO  - Browser closed successfully
+2026-04-29 19:14:04 INFO  - Browser selected from config: EDGE
+2026-04-29 19:14:04 INFO  - Browser selected: EDGE
+2026-04-29 19:14:19 INFO  - Application URL is: SauceDemo
+2026-04-29 19:14:21 INFO  - successfully enter user name and pwd
+2026-04-29 19:14:21 INFO  - ✅ PASSED → closing browser
+2026-04-29 19:14:21 INFO  - Closing browser session
+2026-04-29 19:14:27 INFO  - Browser closed successfully
+2026-04-29 19:20:37 INFO  - Browser selected from config: EDGE
+2026-04-29 19:20:37 INFO  - Browser selected: EDGE
+2026-04-29 19:20:55 INFO  - Application URL is: SauceDemo
+2026-04-29 19:20:58 INFO  - successfully enter user name and pwd
+2026-04-29 19:20:58 INFO  - ✅ PASSED → closing browser
+2026-04-29 19:20:58 INFO  - Closing browser session
+2026-04-29 19:20:59 INFO  - Browser closed successfully
+2026-04-29 19:28:30 INFO  - Browser selected from config: EDGE
+2026-04-29 19:28:30 INFO  - Browser selected: EDGE
+2026-04-29 19:28:41 INFO  - Application URL is: SauceDemo
+2026-04-29 19:28:42 INFO  - successfully enter user name and pwd
+2026-04-29 19:28:42 INFO  - ✅ PASSED → closing browser
+2026-04-29 19:28:42 INFO  - Closing browser session
+2026-04-29 19:28:49 INFO  - Browser closed successfully
+2026-04-29 19:30:05 INFO  - [TestNG] Running:
+  C:\Users\DELL\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-04-29 19:30:06 INFO  - Browser selected from config: EDGE
+2026-04-29 19:30:06 INFO  - Browser selected: EDGE
+2026-04-29 19:30:16 INFO  - Application URL is: SauceDemo
+2026-04-29 19:30:17 INFO  - successfully enter user name and pwd
+2026-04-29 19:30:17 INFO  - ✅ PASSED → closing browser
+2026-04-29 19:30:17 INFO  - Closing browser session
+2026-04-29 19:30:18 INFO  - Browser closed successfully
+2026-04-29 20:54:02 INFO  - [TestNG] Running:
+  C:\Users\DELL\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-04-29 20:54:03 INFO  - Browser selected from config: EDGE
+2026-04-29 20:54:03 INFO  - Browser selected: EDGE
+2026-04-29 20:54:16 INFO  - Application URL is: SauceDemo
+2026-04-29 20:54:18 INFO  - successfully enter user name and pwd
+2026-04-29 20:54:18 INFO  - Closing browser session
+2026-04-29 20:54:24 INFO  - Browser closed successfully
+2026-04-29 20:54:24 INFO  - ✅ PASSED → closing browser
+2026-04-29 21:05:36 INFO  - [TestNG] Running:
+  C:\Users\DELL\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-04-29 21:05:37 INFO  - Browser selected from config: EDGE
+2026-04-29 21:05:37 INFO  - Browser selected: EDGE
+2026-04-29 21:05:50 INFO  - Application URL is: SauceDemo
+2026-04-29 21:05:51 INFO  - successfully enter user name and pwd
+2026-04-29 21:05:51 INFO  - Closing browser session
+2026-04-29 21:05:58 INFO  - Browser closed successfully
+2026-04-29 21:05:58 INFO  - ✅ PASSED → closing browser
+2026-04-29 21:13:31 INFO  - [TestNG] Running:
+  C:\Users\DELL\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-04-29 21:13:31 INFO  - Browser selected from config: EDGE
+2026-04-29 21:13:31 INFO  - Browser selected: EDGE
+2026-04-29 21:13:43 INFO  - Application URL is: SauceDemo
+2026-04-29 21:13:44 INFO  - successfully enter user name and pwd
+2026-04-29 21:13:44 INFO  - Closing browser session
+2026-04-29 21:13:44 INFO  - Browser closed successfully
+2026-04-29 21:13:44 INFO  - ✅ PASSED → closing browser
+2026-04-29 21:21:05 INFO  - [TestNG] Running:
+  C:\Users\DELL\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-04-29 21:21:06 INFO  - Browser selected from config: EDGE
+2026-04-29 21:21:06 INFO  - Browser selected: EDGE
+2026-04-29 21:21:17 INFO  - Application URL is: SauceDemo
+2026-04-29 21:21:18 INFO  - successfully enter user name and pwd
+2026-04-29 21:21:18 INFO  - Closing browser session
+2026-04-29 21:21:25 INFO  - Browser closed successfully
+2026-04-29 21:21:25 INFO  - ✅ PASSED → closing browser
+2026-04-29 21:38:13 INFO  - [TestNG] Running:
+  C:\Users\DELL\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-04-29 21:38:14 INFO  - Browser selected from config: EDGE
+2026-04-29 21:38:14 INFO  - Browser selected: EDGE
+2026-04-29 21:38:28 INFO  - Application URL is: SauceDemo
+2026-04-29 21:38:29 INFO  - successfully enter user name and pwd
+2026-04-29 21:38:29 INFO  - Closing browser session
+2026-04-29 21:38:36 INFO  - Browser closed successfully
+2026-04-29 21:38:36 INFO  - ✅ PASSED → closing browser
+2026-04-29 22:00:02 INFO  - Browser selected from config: EDGE
+2026-04-29 22:00:02 INFO  - Browser selected: EDGE
+2026-04-29 22:00:14 INFO  - Browser selected from config: EDGE
+2026-04-29 22:00:14 INFO  - Browser selected: EDGE
+2026-04-29 22:00:26 INFO  - Application URL is: SauceDemo
+2026-04-29 22:00:27 INFO  - successfully enter user name and pwd
+2026-04-29 22:00:27 INFO  - Closing browser session
+2026-04-29 22:00:33 INFO  - Browser closed successfully
+2026-04-29 22:00:33 INFO  - ✅ PASSED → closing browser
+2026-04-29 22:00:33 INFO  - Browser selected from config: EDGE
+2026-04-29 22:00:33 INFO  - Browser selected: EDGE
+2026-04-29 22:00:35 INFO  - Closing browser session
+2026-04-29 22:00:35 INFO  - Browser closed successfully
+2026-04-29 22:00:35 INFO  - ✅ PASSED → closing browser
+2026-04-29 22:09:10 INFO  - Browser selected from config: EDGE
+2026-04-29 22:09:10 INFO  - Browser selected: EDGE
+2026-04-29 22:09:23 INFO  - Application URL is: SauceDemo
+2026-04-29 22:09:24 INFO  - successfully enter user name and pwd
+2026-04-29 22:09:24 INFO  - Closing browser session
+2026-04-29 22:09:31 INFO  - Browser closed successfully
+2026-04-29 22:09:31 INFO  - ✅ PASSED → closing browser
+2026-04-29 22:09:51 INFO  - Browser selected from config: EDGE
+2026-04-29 22:09:51 INFO  - Browser selected: EDGE
+2026-04-29 22:10:02 INFO  - Application URL is: SauceDemo
+2026-04-29 22:10:03 INFO  - successfully enter user name and pwd
+2026-04-29 22:10:03 INFO  - Closing browser session
+2026-04-29 22:10:10 INFO  - Browser closed successfully
+2026-04-29 22:10:10 INFO  - ✅ PASSED → closing browser
+2026-04-29 22:10:36 INFO  - Browser selected from config: EDGE
+2026-04-29 22:10:36 INFO  - Browser selected: EDGE
+2026-04-29 22:10:47 INFO  - Application URL is: SauceDemo
+2026-04-29 22:10:48 INFO  - successfully enter user name and pwd
+2026-04-29 22:10:48 INFO  - Closing browser session
+2026-04-29 22:10:55 INFO  - Browser closed successfully
+2026-04-29 22:10:55 INFO  - ✅ PASSED → closing browser
+2026-04-29 22:17:07 INFO  - Browser selected from config: EDGE
+2026-04-29 22:17:07 INFO  - Browser selected: EDGE
+2026-04-29 22:17:18 INFO  - Application URL is: SauceDemo
+2026-04-29 22:17:20 INFO  - successfully enter user name and pwd
+2026-04-29 22:17:20 INFO  - presented Text is: Products
+2026-04-29 22:17:20 INFO  - Closing browser session
+2026-04-29 22:17:21 INFO  - Browser closed successfully
+2026-04-29 22:17:21 INFO  - ✅ PASSED → closing browser
+2026-05-01 12:50:03 INFO  - Browser selected from config: EDGE
+2026-05-01 12:50:03 INFO  - Browser selected: EDGE
+2026-05-01 12:50:31 INFO  - Application URL is: SauceDemo
+2026-05-01 12:50:32 INFO  - Closing browser session
+2026-05-01 12:50:33 INFO  - Browser closed successfully
+2026-05-01 12:50:33 INFO  - ✅ PASSED → closing browser
+2026-05-01 12:55:05 INFO  - Browser selected from config: EDGE
+2026-05-01 12:55:05 INFO  - Browser selected: EDGE
+2026-05-01 12:55:19 INFO  - Application URL is: SauceDemo
+2026-05-01 12:55:20 INFO  - Closing browser session
+2026-05-01 12:55:21 INFO  - Browser closed successfully
+2026-05-01 12:55:21 INFO  - ✅ PASSED → closing browser
+2026-05-01 12:59:45 INFO  - Browser selected from config: EDGE
+2026-05-01 12:59:45 INFO  - Browser selected: EDGE
+2026-05-01 12:59:58 INFO  - Application URL is: SauceDemo
+2026-05-01 13:00:00 INFO  - our url isSwag Labs
+2026-05-01 13:00:00 INFO  - titleName isSwag Labs
+2026-05-01 13:00:00 INFO  - Closing browser session
+2026-05-01 13:00:00 INFO  - Browser closed successfully
+2026-05-01 13:00:00 INFO  - ✅ PASSED → closing browser
+2026-05-02 00:02:25 INFO  - Browser selected from config: EDGE
+2026-05-02 00:02:25 INFO  - Browser selected: EDGE
+2026-05-02 00:02:39 INFO  - Application URL is: SauceDemo
+2026-05-02 00:02:40 INFO  - our url isSwag Labs
+2026-05-02 00:02:40 INFO  - titleName isSwag Labs
+2026-05-02 00:02:40 INFO  - Closing browser session
+2026-05-02 00:02:47 INFO  - Browser closed successfully
+2026-05-02 00:02:47 INFO  - ✅ PASSED → closing browser
+2026-05-02 00:03:46 INFO  - Browser selected from config: EDGE
+2026-05-02 00:03:46 INFO  - Browser selected: EDGE
+2026-05-02 00:03:58 INFO  - Application URL is: SauceDemo
+2026-05-02 00:03:59 INFO  - page reload successfully
+2026-05-02 00:03:59 INFO  - page goBack successfully
+2026-05-02 00:03:59 INFO  - page goForward successfully
+2026-05-02 00:03:59 INFO  - Closing browser session
+2026-05-02 00:04:06 INFO  - Browser closed successfully
+2026-05-02 00:04:06 INFO  - ✅ PASSED → closing browser
+2026-05-02 00:29:40 INFO  - Browser selected from config: EDGE
+2026-05-02 00:29:40 INFO  - Browser selected: EDGE
+2026-05-02 00:29:56 INFO  - Application URL is: SauceDemo
+2026-05-02 00:29:57 INFO  - page reload successfully
+2026-05-02 00:29:57 INFO  - page goBack successfully
+2026-05-02 00:29:57 INFO  - page goForward successfully
+2026-05-02 00:29:57 INFO  - Closing browser session
+2026-05-02 00:30:04 INFO  - Browser closed successfully
+2026-05-02 00:30:04 INFO  - ✅ PASSED → closing browser
+2026-05-02 00:30:04 INFO  - Browser selected from config: EDGE
+2026-05-02 00:30:04 INFO  - Browser selected: EDGE
+2026-05-02 00:30:05 INFO  - Application URL is: SauceDemo
+2026-05-02 00:30:06 INFO  - Closing browser session
+2026-05-02 00:30:13 INFO  - Browser closed successfully
+2026-05-02 00:30:13 INFO  - ✅ PASSED → closing browser
+2026-05-02 00:34:23 INFO  - Browser selected from config: EDGE
+2026-05-02 00:34:23 INFO  - Browser selected: EDGE
+2026-05-02 00:34:36 INFO  - Application URL is: SauceDemo
+2026-05-02 00:34:37 INFO  - page reload successfully
+2026-05-02 00:34:37 INFO  - page goBack successfully
+2026-05-02 00:34:37 INFO  - page goForward successfully
+2026-05-02 00:34:37 INFO  - Closing browser session
+2026-05-02 00:34:44 INFO  - Browser closed successfully
+2026-05-02 00:34:44 INFO  - ✅ PASSED → closing browser
+2026-05-02 00:34:44 INFO  - Browser selected from config: EDGE
+2026-05-02 00:34:44 INFO  - Browser selected: EDGE
+2026-05-02 00:34:45 INFO  - Application URL is: SauceDemo
+2026-05-02 00:35:16 INFO  - Closing browser session
+2026-05-02 00:35:16 INFO  - Browser closed successfully
+2026-05-02 00:35:16 INFO  - ❌ FAILED → browser will stay open for debugging
+2026-05-02 00:36:31 INFO  - Browser selected from config: EDGE
+2026-05-02 00:36:31 INFO  - Browser selected: EDGE
+2026-05-02 00:36:44 INFO  - Application URL is: SauceDemo
+2026-05-02 00:37:11 INFO  - Closing browser session
+2026-05-02 00:37:12 INFO  - Browser closed successfully
+2026-05-02 00:37:12 INFO  - ❌ FAILED → browser will stay open for debugging
+2026-05-02 00:38:29 INFO  - Browser selected from config: EDGE
+2026-05-02 00:38:29 INFO  - Browser selected: EDGE
+2026-05-02 00:38:43 INFO  - Application URL is: SauceDemo
+2026-05-02 00:39:13 INFO  - Closing browser session
+2026-05-02 00:39:14 INFO  - Browser closed successfully
+2026-05-02 00:39:14 INFO  - ❌ FAILED → browser will stay open for debugging
+2026-05-02 00:56:32 INFO  - Browser selected from config: EDGE
+2026-05-02 00:56:32 INFO  - Browser selected: EDGE
+2026-05-02 00:56:50 INFO  - Application URL is: SauceDemo
+2026-05-02 00:57:21 INFO  - Closing browser session
+2026-05-02 00:57:21 INFO  - Browser closed successfully
+2026-05-02 00:57:21 INFO  - ❌ FAILED → browser will stay open for debugging
+2026-05-02 01:00:38 INFO  - Browser selected from config: EDGE
+2026-05-02 01:00:38 INFO  - Browser selected: EDGE
+2026-05-02 01:00:51 INFO  - Application URL is: SauceDemo
+2026-05-02 01:01:22 INFO  - Closing browser session
+2026-05-02 01:01:23 INFO  - Browser closed successfully
+2026-05-02 01:01:23 INFO  - ❌ FAILED → browser will stay open for debugging
+2026-05-02 01:01:36 INFO  - Browser selected from config: EDGE
+2026-05-02 01:01:36 INFO  - Browser selected: EDGE
+2026-05-02 01:01:49 INFO  - Application URL is: SauceDemo
+2026-05-02 01:01:51 INFO  - successfully enter user name and pwd
+2026-05-02 01:02:21 INFO  - Closing browser session
+2026-05-02 01:02:21 INFO  - Browser closed successfully
+2026-05-02 01:02:21 INFO  - ❌ FAILED → browser will stay open for debugging
+2026-05-02 01:05:33 INFO  - Browser selected from config: EDGE
+2026-05-02 01:05:33 INFO  - Browser selected: EDGE
+2026-05-02 01:05:46 INFO  - Application URL is: SauceDemo
+2026-05-02 01:05:47 INFO  - successfully enter user name and pwd
+2026-05-02 01:05:48 INFO  - Closing browser session
+2026-05-02 01:05:54 INFO  - Browser closed successfully
+2026-05-02 01:05:54 INFO  - ✅ PASSED → closing browser
+2026-05-02 01:24:21 INFO  - Browser selected from config: EDGE
+2026-05-02 01:24:21 INFO  - Browser selected: EDGE
+2026-05-02 01:24:37 INFO  - Application URL is: SauceDemo
+2026-05-02 01:24:38 INFO  - successfully enter user name and pwd
+2026-05-02 01:24:38 INFO  - presented Text is: Products
+2026-05-02 01:24:38 INFO  - Closing browser session
+2026-05-02 01:24:39 INFO  - Browser closed successfully
+2026-05-02 01:24:39 INFO  - ✅ PASSED → closing browser
+2026-05-02 01:25:05 INFO  - Browser selected from config: EDGE
+2026-05-02 01:25:05 INFO  - Browser selected: EDGE
+2026-05-02 01:25:20 INFO  - Application URL is: SauceDemo
+2026-05-02 01:25:21 INFO  - successfully enter user name and pwd
+2026-05-02 01:25:21 INFO  - presented Text is: Products
+2026-05-02 01:25:21 INFO  - Closing browser session
+2026-05-02 01:25:28 INFO  - Browser closed successfully
+2026-05-02 01:25:28 INFO  - ✅ PASSED → closing browser
+2026-05-02 01:26:58 INFO  - Browser selected from config: EDGE
+2026-05-02 01:26:58 INFO  - Browser selected: EDGE
+2026-05-02 01:27:10 INFO  - Application URL is: SauceDemo
+2026-05-02 01:27:11 INFO  - successfully enter user name and pwd
+2026-05-02 01:27:11 INFO  - presented Text is: Products
+2026-05-02 01:27:11 INFO  - Closing browser session
+2026-05-02 01:27:18 INFO  - Browser closed successfully
+2026-05-02 01:27:18 INFO  - ✅ PASSED → closing browser
+2026-05-02 01:38:51 INFO  - Browser selected from config: EDGE
+2026-05-02 01:38:51 INFO  - Browser selected: EDGE
+2026-05-02 01:39:07 INFO  - Application URL is: SauceDemo
+2026-05-02 01:39:08 INFO  - successfully enter user name and pwd
+2026-05-02 01:39:13 INFO  - Closing browser session
+2026-05-02 01:39:13 INFO  - Browser closed successfully
+2026-05-02 01:39:13 INFO  - ❌ FAILED → browser will stay open for debugging
+2026-05-02 01:40:13 INFO  - Browser selected from config: EDGE
+2026-05-02 01:40:13 INFO  - Browser selected: EDGE
+2026-05-02 01:40:25 INFO  - Application URL is: SauceDemo
+2026-05-02 01:40:26 INFO  - successfully enter user name and pwd
+2026-05-02 01:40:27 INFO  - presented Text is: Products
+2026-05-02 01:40:27 INFO  - Closing browser session
+2026-05-02 01:40:33 INFO  - Browser closed successfully
+2026-05-02 01:40:33 INFO  - ✅ PASSED → closing browser
+2026-05-02 01:54:47 INFO  - Browser selected from config: EDGE
+2026-05-02 01:54:47 INFO  - Browser selected: EDGE
+2026-05-02 01:55:03 INFO  - Application URL is: SauceDemo
+2026-05-02 01:55:04 INFO  - Closing browser session
+2026-05-02 01:55:11 INFO  - Browser closed successfully
+2026-05-02 01:55:11 INFO  - ✅ PASSED → closing browser
+2026-05-02 01:55:34 INFO  - Browser selected from config: EDGE
+2026-05-02 01:55:34 INFO  - Browser selected: EDGE
+2026-05-02 01:55:52 INFO  - Application URL is: SauceDemo
+2026-05-02 01:56:23 INFO  - Closing browser session
+2026-05-02 01:56:24 INFO  - Browser closed successfully
+2026-05-02 01:56:24 INFO  - ❌ FAILED → browser will stay open for debugging
+2026-05-02 02:02:16 INFO  - Browser selected from config: EDGE
+2026-05-02 02:02:16 INFO  - Browser selected: EDGE
+2026-05-02 02:02:31 INFO  - Application URL is: SauceDemo
+2026-05-02 02:03:02 INFO  - Closing browser session
+2026-05-02 02:03:03 INFO  - Browser closed successfully
+2026-05-02 02:03:03 INFO  - ❌ FAILED → browser will stay open for debugging
+2026-05-02 02:04:07 INFO  - Browser selected from config: EDGE
+2026-05-02 02:04:07 INFO  - Browser selected: EDGE
+2026-05-02 02:04:20 INFO  - Application URL is: SauceDemo
+2026-05-02 02:04:21 INFO  - successfully enter user name and pwd
+2026-05-02 02:04:21 INFO  - Closing browser session
+2026-05-02 02:04:21 INFO  - Browser closed successfully
+2026-05-02 02:04:21 INFO  - ✅ PASSED → closing browser
+2026-05-02 02:19:26 INFO  - [TestNG] Running:
+  C:\Users\DELL\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-05-02 02:19:27 INFO  - Browser selected from config: EDGE
+2026-05-02 02:19:27 INFO  - Browser selected: EDGE
+2026-05-02 02:19:42 INFO  - Application URL is: SauceDemo
+2026-05-02 02:19:43 INFO  - successfully enter user name and pwd
+2026-05-02 02:20:13 INFO  - ❌ FAILED → capturing screenshot
+2026-05-02 02:20:13 INFO  - 🔄 Closing browser
+2026-05-02 02:20:13 INFO  - Closing browser session
+2026-05-02 02:20:14 INFO  - Browser closed successfully
+2026-05-02 02:22:51 INFO  - [TestNG] Running:
+  C:\Users\DELL\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-05-02 02:22:52 INFO  - Browser selected from config: EDGE
+2026-05-02 02:22:52 INFO  - Browser selected: EDGE
+2026-05-02 02:23:06 INFO  - Application URL is: SauceDemo
+2026-05-02 02:23:07 INFO  - successfully enter user name and pwd
+2026-05-02 02:23:07 INFO  - 🔄 Closing browser
+2026-05-02 02:23:07 INFO  - Closing browser session
+2026-05-02 02:23:07 INFO  - Browser closed successfully
+2026-05-02 02:23:07 INFO  - Browser selected from config: EDGE
+2026-05-02 02:23:07 INFO  - Browser selected: EDGE
+2026-05-02 02:23:09 INFO  - Application URL is: SauceDemo
+2026-05-02 02:23:10 INFO  - successfully enter user name and pwd
+2026-05-02 02:23:10 INFO  - 🔄 Closing browser
+2026-05-02 02:23:10 INFO  - Closing browser session
+2026-05-02 02:23:17 INFO  - Browser closed successfully
+2026-05-02 02:23:17 INFO  - Browser selected from config: EDGE
+2026-05-02 02:23:17 INFO  - Browser selected: EDGE
+2026-05-02 02:23:18 INFO  - Application URL is: SauceDemo
+2026-05-02 02:23:19 INFO  - our url isSwag Labs
+2026-05-02 02:23:19 INFO  - titleName isSwag Labs
+2026-05-02 02:23:19 INFO  - 🔄 Closing browser
+2026-05-02 02:23:19 INFO  - Closing browser session
+2026-05-02 02:23:19 INFO  - Browser closed successfully
+2026-05-02 02:23:19 INFO  - Browser selected from config: EDGE
+2026-05-02 02:23:19 INFO  - Browser selected: EDGE
+2026-05-02 02:23:20 INFO  - Application URL is: SauceDemo
+2026-05-02 02:23:21 INFO  - page reload successfully
+2026-05-02 02:23:21 INFO  - page goBack successfully
+2026-05-02 02:23:21 INFO  - page goForward successfully
+2026-05-02 02:23:21 INFO  - 🔄 Closing browser
+2026-05-02 02:23:21 INFO  - Closing browser session
+2026-05-02 02:23:28 INFO  - Browser closed successfully
+2026-05-02 02:23:28 INFO  - Browser selected from config: EDGE
+2026-05-02 02:23:28 INFO  - Browser selected: EDGE
+2026-05-02 02:23:29 INFO  - Application URL is: SauceDemo
+2026-05-02 02:23:30 INFO  - successfully enter user name and pwd
+2026-05-02 02:23:30 INFO  - 🔄 Closing browser
+2026-05-02 02:23:30 INFO  - Closing browser session
+2026-05-02 02:23:31 INFO  - Browser closed successfully
+2026-05-02 02:23:31 INFO  - Browser selected from config: EDGE
+2026-05-02 02:23:31 INFO  - Browser selected: EDGE
+2026-05-02 02:23:32 INFO  - Application URL is: SauceDemo
+2026-05-02 02:23:33 INFO  - successfully enter user name and pwd
+2026-05-02 02:23:33 INFO  - presented Text is: Products
+2026-05-02 02:23:33 INFO  - 🔄 Closing browser
+2026-05-02 02:23:33 INFO  - Closing browser session
+2026-05-02 02:23:33 INFO  - Browser closed successfully
+2026-05-03 00:05:23 INFO  - Browser selected from config: EDGE
+2026-05-03 00:05:23 INFO  - Browser selected: EDGE
+2026-05-03 00:05:44 INFO  - Application URL is: SauceDemo
+2026-05-03 00:05:45 INFO  - our url isSwag Labs
+2026-05-03 00:05:45 INFO  - titleName isSwag Labs
+2026-05-03 00:05:45 INFO  - 🔄 Closing browser
+2026-05-03 00:05:45 INFO  - Closing browser session
+2026-05-03 00:05:52 INFO  - Browser closed successfully
+2026-05-03 01:01:10 INFO  - Browser selected from config: EDGE
+2026-05-03 01:01:10 INFO  - Browser selected: EDGE
+2026-05-03 01:01:24 INFO  - Application URL is: SauceDemo
+2026-05-03 01:01:26 INFO  - successfully enter user name and pwd
+2026-05-03 01:01:26 INFO  - 🔄 Closing browser
+2026-05-03 01:01:26 INFO  - Closing browser session
+2026-05-03 01:01:27 INFO  - Browser closed successfully
+2026-05-03 01:01:57 INFO  - Browser selected from config: EDGE
+2026-05-03 01:01:57 INFO  - Browser selected: EDGE
+2026-05-03 01:02:09 INFO  - Application URL is: SauceDemo
+2026-05-03 01:02:11 INFO  - 🔄 Closing browser
+2026-05-03 01:02:11 INFO  - Closing browser session
+2026-05-03 01:02:17 INFO  - Browser closed successfully
+2026-05-03 01:04:53 INFO  - Browser selected from config: EDGE
+2026-05-03 01:04:53 INFO  - Browser selected: EDGE
+2026-05-03 01:05:06 INFO  - Application URL is: SauceDemo
+2026-05-03 01:05:07 INFO  - 🔄 Closing browser
+2026-05-03 01:05:07 INFO  - Closing browser session
+2026-05-03 01:05:13 INFO  - Browser closed successfully
+2026-05-03 01:05:43 INFO  - Browser selected from config: EDGE
+2026-05-03 01:05:43 INFO  - Browser selected: EDGE
+2026-05-03 01:05:55 INFO  - Application URL is: SauceDemo
+2026-05-03 01:05:55 INFO  - ❌ FAILED → capturing screenshot
+2026-05-03 01:05:55 INFO  - 🔄 Closing browser
+2026-05-03 01:05:55 INFO  - Closing browser session
+2026-05-03 01:05:56 INFO  - Browser closed successfully
+2026-05-03 01:06:17 INFO  - Browser selected from config: EDGE
+2026-05-03 01:06:17 INFO  - Browser selected: EDGE
+2026-05-03 01:06:28 INFO  - Application URL is: SauceDemo
+2026-05-03 01:06:29 INFO  - ❌ FAILED → capturing screenshot
+2026-05-03 01:06:29 INFO  - 🔄 Closing browser
+2026-05-03 01:06:29 INFO  - Closing browser session
+2026-05-03 01:06:29 INFO  - Browser closed successfully
+2026-05-03 01:06:41 INFO  - Browser selected from config: EDGE
+2026-05-03 01:06:41 INFO  - Browser selected: EDGE
+2026-05-03 01:06:54 INFO  - Application URL is: SauceDemo
+2026-05-03 01:06:57 INFO  - 🔄 Closing browser
+2026-05-03 01:06:57 INFO  - Closing browser session
+2026-05-03 01:06:58 INFO  - Browser closed successfully
+2026-05-03 01:08:03 INFO  - Browser selected from config: EDGE
+2026-05-03 01:08:03 INFO  - Browser selected: EDGE
+2026-05-03 01:08:16 INFO  - Application URL is: SauceDemo
+2026-05-03 01:08:17 INFO  - 🔄 Closing browser
+2026-05-03 01:08:17 INFO  - Closing browser session
+2026-05-03 01:08:23 INFO  - Browser closed successfully
+2026-05-03 01:08:54 INFO  - Browser selected from config: EDGE
+2026-05-03 01:08:54 INFO  - Browser selected: EDGE
+2026-05-03 01:09:06 INFO  - Application URL is: SauceDemo
+2026-05-03 01:09:06 INFO  - 🔄 Closing browser
+2026-05-03 01:09:06 INFO  - Closing browser session
+2026-05-03 01:09:13 INFO  - Browser closed successfully
+2026-05-03 01:21:32 INFO  - Browser selected from config: EDGE
+2026-05-03 01:21:32 INFO  - Browser selected: EDGE
+2026-05-03 01:21:45 INFO  - Application URL is: SauceDemo
+2026-05-03 01:21:45 INFO  - 🔄 Closing browser
+2026-05-03 01:21:45 INFO  - Closing browser session
+2026-05-03 01:21:52 INFO  - Browser closed successfully
+2026-05-03 01:22:39 INFO  - Browser selected from config: EDGE
+2026-05-03 01:22:39 INFO  - Browser selected: EDGE
+2026-05-03 01:22:55 INFO  - Application URL is: SauceDemo
+2026-05-03 01:23:41 INFO  - Browser selected from config: EDGE
+2026-05-03 01:23:41 INFO  - Browser selected: EDGE
+2026-05-03 01:23:57 INFO  - Application URL is: SauceDemo
+2026-05-03 01:23:58 INFO  - successfully enter user name and pwd
+2026-05-03 01:23:58 INFO  - textSauce Labs Backpack
+2026-05-03 01:23:58 INFO  - 🔄 Closing browser
+2026-05-03 01:23:58 INFO  - Closing browser session
+2026-05-03 01:23:59 INFO  - Browser closed successfully
+2026-05-03 01:36:15 INFO  - [TestNG] Running:
+  C:\Users\DELL\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-05-03 01:36:16 INFO  - Browser selected from config: EDGE
+2026-05-03 01:36:16 INFO  - Browser selected: EDGE
+2026-05-03 01:36:28 INFO  - Application URL is: SauceDemo
+2026-05-03 01:36:29 INFO  - successfully enter user name and pwd
+2026-05-03 01:36:29 INFO  - 🔄 Closing browser
+2026-05-03 01:36:29 INFO  - Closing browser session
+2026-05-03 01:36:36 INFO  - Browser closed successfully
+2026-05-03 01:36:36 INFO  - Browser selected from config: EDGE
+2026-05-03 01:36:36 INFO  - Browser selected: EDGE
+2026-05-03 01:36:37 INFO  - Application URL is: SauceDemo
+2026-05-03 01:36:38 INFO  - successfully enter user name and pwd
+2026-05-03 01:36:38 INFO  - 🔄 Closing browser
+2026-05-03 01:36:38 INFO  - Closing browser session
+2026-05-03 01:36:39 INFO  - Browser closed successfully
+2026-05-03 01:36:39 INFO  - Browser selected from config: EDGE
+2026-05-03 01:36:39 INFO  - Browser selected: EDGE
+2026-05-03 01:36:40 INFO  - Application URL is: SauceDemo
+2026-05-03 01:36:41 INFO  - 🔄 Closing browser
+2026-05-03 01:36:41 INFO  - Closing browser session
+2026-05-03 01:36:47 INFO  - Browser closed successfully
+2026-05-03 01:36:47 INFO  - Browser selected from config: EDGE
+2026-05-03 01:36:47 INFO  - Browser selected: EDGE
+2026-05-03 01:36:48 INFO  - Application URL is: SauceDemo
+2026-05-03 01:36:49 INFO  - 🔄 Closing browser
+2026-05-03 01:36:49 INFO  - Closing browser session
+2026-05-03 01:36:56 INFO  - Browser closed successfully
+2026-05-03 01:36:56 INFO  - Browser selected from config: EDGE
+2026-05-03 01:36:56 INFO  - Browser selected: EDGE
+2026-05-03 01:36:57 INFO  - Application URL is: SauceDemo
+2026-05-03 01:36:58 INFO  - successfully enter user name and pwd
+2026-05-03 01:36:58 INFO  - textSauce Labs Backpack
+2026-05-03 01:36:58 INFO  - 🔄 Closing browser
+2026-05-03 01:36:58 INFO  - Closing browser session
+2026-05-03 01:37:04 INFO  - Browser closed successfully
+2026-05-03 01:37:04 INFO  - Browser selected from config: EDGE
+2026-05-03 01:37:04 INFO  - Browser selected: EDGE
+2026-05-03 01:37:06 INFO  - Application URL is: SauceDemo
+2026-05-03 01:37:06 INFO  - our title isSwag Labs
+2026-05-03 01:37:06 INFO  - our url ishttps://www.saucedemo.com/
+2026-05-03 01:37:06 INFO  - 🔄 Closing browser
+2026-05-03 01:37:06 INFO  - Closing browser session
+2026-05-03 01:37:13 INFO  - Browser closed successfully
+2026-05-03 01:37:13 INFO  - Browser selected from config: EDGE
+2026-05-03 01:37:13 INFO  - Browser selected: EDGE
+2026-05-03 01:37:14 INFO  - Application URL is: SauceDemo
+2026-05-03 01:37:15 INFO  - page reload successfully
+2026-05-03 01:37:15 INFO  - page goBack successfully
+2026-05-03 01:37:15 INFO  - page goForward successfully
+2026-05-03 01:37:15 INFO  - 🔄 Closing browser
+2026-05-03 01:37:15 INFO  - Closing browser session
+2026-05-03 01:37:22 INFO  - Browser closed successfully
+2026-05-03 01:37:22 INFO  - Browser selected from config: EDGE
+2026-05-03 01:37:22 INFO  - Browser selected: EDGE
+2026-05-03 01:37:23 INFO  - Application URL is: SauceDemo
+2026-05-03 01:37:24 INFO  - successfully enter user name and pwd
+2026-05-03 01:37:24 INFO  - 🔄 Closing browser
+2026-05-03 01:37:24 INFO  - Closing browser session
+2026-05-03 01:37:31 INFO  - Browser closed successfully
+2026-05-03 01:37:31 INFO  - Browser selected from config: EDGE
+2026-05-03 01:37:31 INFO  - Browser selected: EDGE
+2026-05-03 01:37:32 INFO  - Application URL is: SauceDemo
+2026-05-03 01:37:33 INFO  - successfully enter user name and pwd
+2026-05-03 01:37:33 INFO  - presented Text is: Products
+2026-05-03 01:37:33 INFO  - Swag Labs
+2026-05-03 01:37:33 INFO  - 🔄 Closing browser
+2026-05-03 01:37:33 INFO  - Closing browser session
+2026-05-03 01:37:39 INFO  - Browser closed successfully
+2026-05-11 10:42:16 INFO  - [TestNG] Running:
+  C:\Users\DELL\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-05-11 10:42:17 INFO  - Browser selected from config: EDGE
+2026-05-11 10:42:17 INFO  - Browser selected: EDGE
+2026-05-11 10:42:39 INFO  - Application URL is: Frank
+2026-05-11 10:42:41 INFO  - 🔄 Closing browser
+2026-05-11 10:42:41 INFO  - Closing browser session
+2026-05-11 10:42:44 INFO  - Browser closed successfully
+2026-05-11 10:49:02 INFO  - Browser selected from config: EDGE
+2026-05-11 10:49:02 INFO  - Browser selected: EDGE
+2026-05-11 10:49:17 INFO  - Application URL is: Frank1
+2026-05-11 10:49:17 INFO  - 🔄 Closing browser
+2026-05-11 10:49:17 INFO  - Closing browser session
+2026-05-11 10:49:24 INFO  - Browser closed successfully
+2026-08-27 20:50:16 INFO  - Browser selected from config: EDGE
+2026-08-27 20:50:16 INFO  - Browser selected: EDGE
+2026-08-27 20:51:05 INFO  - Application URL is: SauceDemo
+2026-08-27 20:51:06 INFO  - successfully enter user name and pwd
+2026-08-27 20:51:06 INFO  - 🔄 Closing browser
+2026-08-27 20:51:06 INFO  - Closing browser session
+2026-08-27 20:51:14 INFO  - Browser closed successfully
+2026-11-21 18:32:45 INFO  - Browser selected from config: EDGE
+2026-11-21 18:32:45 INFO  - Browser selected: EDGE
+2026-11-21 18:33:07 INFO  - Application URL is: SauceDemo
+2026-11-21 18:33:10 INFO  - successfully enter user name and pwd
+2026-11-21 18:33:10 INFO  - 🔄 Closing browser
+2026-11-21 18:33:10 INFO  - Closing browser session
+2026-11-21 18:33:16 INFO  - Browser closed successfully
+2026-11-21 18:40:40 INFO  - Browser selected: EDGE
+2026-11-21 18:40:55 INFO  - Application URL is: SauceDemo
+2026-11-21 18:40:56 INFO  - successfully enter user name and pwd
+2026-11-21 18:40:56 INFO  - 🔄 Closing browser
+2026-11-21 18:40:56 INFO  - Closing browser session
+2026-11-21 18:41:44 INFO  - Browser selected: EDGE
+2026-11-21 18:41:58 INFO  - Application URL is: SauceDemo
+2026-11-21 18:41:58 INFO  - successfully enter user name and pwd
+2026-11-21 18:41:58 INFO  - 🔄 Closing browser
+2026-11-21 18:44:46 INFO  - [TestNG] Running:
+  C:\Users\DELL\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2026-11-21 18:44:47 INFO  - Browser selected: EDGE
+2026-11-21 18:45:01 INFO  - Application URL is: SauceDemo
+2026-11-21 18:45:01 INFO  - successfully enter user name and pwd
+2026-11-21 18:45:01 INFO  - 🔄 Closing browser
